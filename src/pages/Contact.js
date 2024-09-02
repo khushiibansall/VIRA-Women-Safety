@@ -54,7 +54,7 @@ const Contact = () => {
                           color="#DCE2FF"
                           _hover={{ border: '2px solid #1C6FEB' }}
                           leftIcon={<MdPhone color="#ff1493" size="20px" />}>
-                          +914646466464
+                          +918800978834
                         </Button>
                         <Button
                           size="md"
@@ -64,7 +64,7 @@ const Contact = () => {
                           color="#DCE2FF"
                           _hover={{ border: '2px solid #1C6FEB' }}
                           leftIcon={<MdEmail color="#ff1493" size="20px" />}>
-                          abhaya@abc.com
+                          khushibansal1048@gmail.com
                         </Button>
                         <Button
                           size="md"
@@ -74,7 +74,7 @@ const Contact = () => {
                           color="#DCE2FF"
                           _hover={{ border: '2px solid #1C6FEB' }}
                           leftIcon={<MdLocationOn color="#ff1493" size="20px" />}>
-                          mumbai, India
+                          Gurgaon, India
                         </Button>
                       </VStack>
                     </Box>

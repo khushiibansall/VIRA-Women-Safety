@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function Home() {
   return (
-    <Box bg="#FFFDD0" h="100vh">
+    <Box bg="#E7C4A6" h="100vh">
       <Container maxW={"6xl"} h="100%">
         <Flex
           alignItems="center"
